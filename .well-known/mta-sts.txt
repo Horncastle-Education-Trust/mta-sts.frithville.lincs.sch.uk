@@ -4,4 +4,5 @@ mx: aspmx.l.google.com
 mx: alt1.aspmx.l.google.com
 mx: alt2.aspmx.l.google.com
 mx: alt3.aspmx.l.google.com
+mx: frithville-lincs-sch-uk.mail.protection.outlook.com
 max_age: 1209600
